@@ -1,0 +1,1 @@
+Simple app that shows how to parse a JSON file into Java pojo's
